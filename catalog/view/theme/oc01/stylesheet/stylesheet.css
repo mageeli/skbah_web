@@ -209,13 +209,13 @@ header.fixed {
     padding: 0;
     text-align:left;
 }
-#logo > a{display:inline-block;}
+#logo > a{/* display:inline-block; */}
 .header-logo {
     text-align: center;
     float: left;
 }
 #logo img{
-    height:100px;
+    height: 93px;
 }
 /* search */
 
