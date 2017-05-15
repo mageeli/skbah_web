@@ -26,7 +26,7 @@
     <div class="Footer-bottom">
       <div class="footer-bottom-left col-md-4 col-sm-12 col-xs-12"><?php echo $footerleft; ?> </div>
       <div class="copy-right col-md-4 col-sm-12 col-xs-12">
-        <div id="powered"><?php echo $powered; ?></div>
+        <div id="powered"> سكبه © 2017</div>
       </div>
       <div class="footer-bottom-right col-md-4 col-sm-12 col-xs-12"><?php echo $footerbottom; ?> </div>
     </div>
