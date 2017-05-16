@@ -206,7 +206,7 @@ header.fixed {
 }
 /* logo */
 #logo {
-    padding: 0;
+    padding: 12px 0 0;
     text-align:left;
 }
 #logo > a{/* display:inline-block; */}
@@ -215,7 +215,7 @@ header.fixed {
     float: left;
 }
 #logo img{
-    height: 93px;
+    /*! height: 93px; */
 }
 /* search */
 
@@ -3461,7 +3461,7 @@ h2 {
 }
 @media (max-width: 360px) {
     .brand .product-thumb:after{border: none; left:0;}
-    #logo{padding:36px 0;}
+    #logo{padding:30px 0;}
     .col-xs-5.header-logo{width:35%;}
     .productpage .left {
         margin: 0 auto;
