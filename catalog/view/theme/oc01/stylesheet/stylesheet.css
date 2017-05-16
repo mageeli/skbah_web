@@ -1,6 +1,9 @@
-
+@font-face {
+    font-family: 'DroidKufi';
+    src: url('../fonts/DroidKufi-Regular.ttf');
+}
 body {
-    font-family: 'Montserrat', Open Sans;
+    font-family: 'DroidKufi','Montserrat', Open Sans;
     font-weight: 400;
     color: #737373;
     font-size: 14px;
